@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2025-11-23 20:35:47",
+    "operation_type": "Внесение средств",
+    "amount": 10000.0,
+    "client_name": "Иванов Иван Иванович",
+    "description": "преммия",
+    "target_client": null
+  },
+  {
+    "id": 2,
+    "timestamp": "2025-11-23 20:36:27",
+    "operation_type": "Внесение средств",
+    "amount": 2000000.0,
+    "client_name": "Иванов Иван Иванович",
+    "description": "зарплата",
+    "target_client": null
+  },
+  {
+    "id": 3,
+    "timestamp": "2025-11-23 20:37:24",
+    "operation_type": "Снятие средств",
+    "amount": 2000000.0,
+    "client_name": "Иванов Иван Иванович",
+    "description": "покупка",
+    "target_client": null
+  }
+]

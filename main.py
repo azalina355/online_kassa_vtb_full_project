@@ -1,0 +1,14 @@
+import sys
+from PyQt5.QtWidgets import QApplication
+from src.gui import CashierApp
+
+
+def main() -> None:
+    app = QApplication(sys.argv)
+    window = CashierApp()
+    window.show()
+    sys.exit(app.exec_())
+
+
+if __name__ == "__main__":
+    main()
